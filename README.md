@@ -9,6 +9,11 @@
 
 可以指定特定目录
 
+使用模块：
+- `os`
+- `logging`
+- `unittest`
+
 ## 用法
 
 ------
@@ -25,5 +30,9 @@ Two modes:
 
 You can specify a particular directory to search within.
 
+Used mods:
+- `os`
+- `logging`
+- `unittest`
 
 ## Usage
