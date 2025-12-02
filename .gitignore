@@ -11,3 +11,6 @@ wheels/
 
 # Personal log
 search.log
+
+# VScode settings
+.vscode/setting.json
