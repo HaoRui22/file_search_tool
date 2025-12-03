@@ -44,7 +44,7 @@ python main.py -m content -d . -k kw
 This is a small practice project for learning Python. The project involves building a command-line file search tool using Python.
 
 Two modes:
-- File Content Search: Matches files based on keywords in their content.
+- File Content Search: Matches files based on keywords in their text content.
 - Filename Search: Matches files based on keywords in their filenames.
 
 You can specify a particular directory to search within.
