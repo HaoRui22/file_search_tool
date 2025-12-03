@@ -15,7 +15,7 @@ def print_with_paging(lines, page_size=20):
         count += 1
 
         if count >= page_size:
-            user = input(Fore.Yellow + "---按 Enter 查看更多， 输入 q 退出---")
+            user = input(Fore.YELLOW + "---按 Enter 查看更多， 输入 q 退出---")
             if user.lower() == 'q':
                 return
             count = 0
